@@ -1,3 +1,7 @@
 export function Store() {
-  return <div>Store</div>;
+  return (
+    <div>
+      <h1>THIS IS STORE PAGE</h1>
+    </div>
+  );
 }
